@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Berrouche
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Berrouche, Yaakoub Berrouche, an Associate Professor at Université Ferhat Abbas Sétif 1, Algéria.
+- 👀 I’m interested in Signal Processing and Digital Wireless communication.
+- 🌱 I’m currently Teaching Signal Processing
+- 💞️ I’m looking to collaborate on wireless communication, Biomedical and Mechanical signal processing
+- 📫 How to reach me @Berrouche
 
 <!---
 Berrouche/Berrouche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
